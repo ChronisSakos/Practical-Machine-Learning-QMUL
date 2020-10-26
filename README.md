@@ -1,5 +1,5 @@
 # Practical-Machine-Learning-QMUL
-Projects from the 3-week  2019-summer course on Practical Machine Learning in Queen's Mary University of London
+## Projects from the 3-week  2019-summer course on Practical Machine Learning in Queen's Mary University of London
 
 Week 1 includes some scripts on normal, poisson and exponential distributions with the use of simple python libraries.
 
